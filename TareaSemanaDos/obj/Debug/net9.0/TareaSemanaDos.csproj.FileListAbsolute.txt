@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\bin\Debug\net9.0\TareaSemanaDos.exe
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\bin\Debug\net9.0\TareaSemanaDos.deps.json
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\bin\Debug\net9.0\TareaSemanaDos.runtimeconfig.json
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\bin\Debug\net9.0\TareaSemanaDos.dll
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\bin\Debug\net9.0\TareaSemanaDos.pdb
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\TareaSemanaDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\TareaSemanaDos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\TareaSemanaDos.AssemblyInfo.cs
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\TareaSemanaDos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\TareaSemanaDos.dll
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\refint\TareaSemanaDos.dll
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\TareaSemanaDos.pdb
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\TareaSemanaDos.genruntimeconfig.cache
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\ref\TareaSemanaDos.dll
