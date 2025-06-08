@@ -12,3 +12,4 @@ C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSe
 C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\TareaSemanaDos.pdb
 C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\TareaSemanaDos.genruntimeconfig.cache
 C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\ref\TareaSemanaDos.dll
+C:\Users\User\Documents\Estructura de datos\Trabajos\Estructura-de-datos\TareaSemanaDos\obj\Debug\net9.0\TareaSemanaDos.sourcelink.json
