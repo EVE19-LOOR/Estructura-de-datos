@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\bin\Debug\net9.0\TareaSemanaTres.exe
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\bin\Debug\net9.0\TareaSemanaTres.deps.json
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\bin\Debug\net9.0\TareaSemanaTres.runtimeconfig.json
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\bin\Debug\net9.0\TareaSemanaTres.dll
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\bin\Debug\net9.0\TareaSemanaTres.pdb
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\obj\Debug\net9.0\TareaSemanaTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\obj\Debug\net9.0\TareaSemanaTres.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\obj\Debug\net9.0\TareaSemanaTres.AssemblyInfo.cs
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\obj\Debug\net9.0\TareaSemanaTres.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\obj\Debug\net9.0\TareaSemanaTres.sourcelink.json
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\obj\Debug\net9.0\TareaSemanaTres.dll
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\obj\Debug\net9.0\refint\TareaSemanaTres.dll
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\obj\Debug\net9.0\TareaSemanaTres.pdb
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\obj\Debug\net9.0\TareaSemanaTres.genruntimeconfig.cache
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaTres\obj\Debug\net9.0\ref\TareaSemanaTres.dll

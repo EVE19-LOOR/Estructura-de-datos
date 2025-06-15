@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaDos\\TareaSemanaDos.csproj": {}
+    "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaTres\\TareaSemanaTres.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaDos\\TareaSemanaDos.csproj": {
+    "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaTres\\TareaSemanaTres.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaDos\\TareaSemanaDos.csproj",
-        "projectName": "TareaSemanaDos",
-        "projectPath": "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaDos\\TareaSemanaDos.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaTres\\TareaSemanaTres.csproj",
+        "projectName": "TareaSemanaTres",
+        "projectPath": "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaTres\\TareaSemanaTres.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaDos\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaTres\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
