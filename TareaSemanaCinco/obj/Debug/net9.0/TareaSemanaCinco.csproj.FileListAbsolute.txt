@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaCinco\obj\Debug\net9.0\TareaSemanaCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaCinco\obj\Debug\net9.0\TareaSemanaCinco.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaCinco\obj\Debug\net9.0\TareaSemanaCinco.AssemblyInfo.cs
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaCinco\obj\Debug\net9.0\TareaSemanaCinco.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estructura de datos\Estructura-de-datos\TareaSemanaCinco\obj\Debug\net9.0\TareaSemanaCinco.sourcelink.json
