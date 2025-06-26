@@ -1,0 +1,23 @@
+# Archivos y carpetas que NO deben subirse
+
+# Salida de compilación
+bin/
+obj/
+
+# Archivos binarios
+*.exe
+*.dll
+*.pdb
+
+# Archivos temporales de usuario y de VS Code
+.vscode/
+*.user
+*.suo
+
+# Archivos generados automáticamente
+*.cache
+*.log
+
+# Configuración de depuración
+*.vspscc
+*.vssscc
