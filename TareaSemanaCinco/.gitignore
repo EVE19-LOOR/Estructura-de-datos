@@ -1,2 +1,10 @@
+# Carpetas generadas automáticamente
 bin/
 obj/
+.vs/
+
+# Archivos temporales
+*.user
+*.suo
+*.log
+*.cache
