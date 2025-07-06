@@ -1,0 +1,6 @@
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/

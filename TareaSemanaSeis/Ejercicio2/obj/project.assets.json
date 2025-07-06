@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaSeis\\TareaSemanaSeis.csproj",
-      "projectName": "TareaSemanaSeis",
-      "projectPath": "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaSeis\\TareaSemanaSeis.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaSeis\\Ejercicio2\\Ejercicio2.csproj",
+      "projectName": "Ejercicio2",
+      "projectPath": "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaSeis\\Ejercicio2\\Ejercicio2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaSeis\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Estructura de datos\\Estructura-de-datos\\TareaSemanaSeis\\Ejercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
