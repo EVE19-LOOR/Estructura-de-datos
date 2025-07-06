@@ -1,6 +1,10 @@
-# Ignorar carpetas de compilación
+# Carpetas de compilación
 bin/
 obj/
+.vs/
 
-# Visual Studio Code
-.vscode/
+# Archivos temporales
+*.user
+*.suo
+*.cache
+*.log
