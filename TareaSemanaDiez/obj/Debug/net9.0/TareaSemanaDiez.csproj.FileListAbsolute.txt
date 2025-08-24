@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\bin\Debug\net9.0\TareaSemanaDiez.exe
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\bin\Debug\net9.0\TareaSemanaDiez.deps.json
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\bin\Debug\net9.0\TareaSemanaDiez.runtimeconfig.json
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\bin\Debug\net9.0\TareaSemanaDiez.dll
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\bin\Debug\net9.0\TareaSemanaDiez.pdb
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\obj\Debug\net9.0\TareaSemanaDiez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\obj\Debug\net9.0\TareaSemanaDiez.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\obj\Debug\net9.0\TareaSemanaDiez.AssemblyInfo.cs
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\obj\Debug\net9.0\TareaSemanaDiez.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\obj\Debug\net9.0\TareaSemanaDiez.sourcelink.json
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\obj\Debug\net9.0\TareaSemanaDiez.dll
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\obj\Debug\net9.0\refint\TareaSemanaDiez.dll
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\obj\Debug\net9.0\TareaSemanaDiez.pdb
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\obj\Debug\net9.0\TareaSemanaDiez.genruntimeconfig.cache
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaDiez\obj\Debug\net9.0\ref\TareaSemanaDiez.dll
