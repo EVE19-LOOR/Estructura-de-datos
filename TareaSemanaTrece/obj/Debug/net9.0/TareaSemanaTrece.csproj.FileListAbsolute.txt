@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\bin\Debug\net9.0\TareaSemanaTrece.exe
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\bin\Debug\net9.0\TareaSemanaTrece.deps.json
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\bin\Debug\net9.0\TareaSemanaTrece.runtimeconfig.json
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\bin\Debug\net9.0\TareaSemanaTrece.dll
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\bin\Debug\net9.0\TareaSemanaTrece.pdb
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\obj\Debug\net9.0\TareaSemanaTrece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\obj\Debug\net9.0\TareaSemanaTrece.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\obj\Debug\net9.0\TareaSemanaTrece.AssemblyInfo.cs
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\obj\Debug\net9.0\TareaSemanaTrece.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\obj\Debug\net9.0\TareaSemanaTrece.sourcelink.json
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\obj\Debug\net9.0\TareaSemanaTrece.dll
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\obj\Debug\net9.0\refint\TareaSemanaTrece.dll
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\obj\Debug\net9.0\TareaSemanaTrece.pdb
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\obj\Debug\net9.0\TareaSemanaTrece.genruntimeconfig.cache
+C:\Users\User\Downloads\eve\Estructura-de-datos\TareaSemanaTrece\obj\Debug\net9.0\ref\TareaSemanaTrece.dll
